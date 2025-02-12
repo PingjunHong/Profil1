@@ -1,0 +1,17 @@
+[Evaluation Results]
+* sentence-level factuality error ratio per model (lower is better)
+bart	35.7%
+gpt3.5	30.0%
+gpt4	22.2%
+
+* summary-level faithfulness score per model (higher is better)
+bart	62.7%
+gpt3.5	69.4%
+gpt4	75.0%
+
+* system-level model ranking (left is better)
+['gpt4', 'gpt3.5', 'bart']
+
+* success rate: 100.0%
+
+

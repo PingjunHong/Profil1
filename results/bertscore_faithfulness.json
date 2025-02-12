@@ -1,0 +1,42 @@
+[
+        {
+            "doc_id": "13862856",
+            "model": "bart",
+            "BERTScore_F1": 0.7075
+        },
+        {
+            "doc_id": "13729565",
+            "model": "bart",
+            "BERTScore_F1": 0.5537
+        },
+        {
+            "doc_id": "13680171",
+            "model": "bart",
+            "BERTScore_F1": 0.6436
+        },
+        {
+            "doc_id": "13729438",
+            "model": "gpt3.5",
+            "BERTScore_F1": 0.6187
+        },
+        {
+            "doc_id": "13828600",
+            "model": "gpt3.5",
+            "BERTScore_F1": 0.6619
+        },
+        {
+            "doc_id": "13716964",
+            "model": "gpt3.5",
+            "BERTScore_F1": 0.68
+        },
+        {
+            "doc_id": "13731487",
+            "model": "gpt4",
+            "BERTScore_F1": 0.6394
+        },
+        {
+            "doc_id": "13814882",
+            "model": "gpt4",
+            "BERTScore_F1": 0.6552
+        }
+]
